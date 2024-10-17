@@ -1,0 +1,1 @@
+export {default as BlogDataModel} from './v1/blogDataModel.js'
